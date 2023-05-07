@@ -49,6 +49,7 @@ In this application, I used express, sequelize, mysql2. so here are some steps u
 
 Here I attached some .gif of insomnia.
 
+![DB_Application_run_get_all](./Develop/assests/DB_application_run%20_insomnia_GET.gif)
 ![GET_ALL](./Develop/assests/GET_ALL.gif)
 ![Categories](./Develop/assests/GET_POST_PUT_DELETE_Categories.gif)
 ![Products](./Develop/assests/GET_POST_PUT_DELETE_Product.gif)
