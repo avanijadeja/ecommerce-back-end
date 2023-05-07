@@ -55,7 +55,7 @@ Here I attached some .gif of insomnia.
 ![Products](./Develop/assests/GET_POST_PUT_DELETE_Product.gif)
 ![Tags](./Develop/assests/GET_POST_PUT_DELETE_Tag.gif)
 
-A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.-
+A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.- https://drive.google.com/file/d/1Ll3tb2vfBKlJ8mDFc92AMM8HuF3gvgvF/view
 
 The URL of the GitHub repository. -
 https://github.com/avanijadeja/ecommerce-back-end
